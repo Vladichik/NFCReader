@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue_main_color">#539cf6</color>
+    <color name="blue_main_color_trans">#77539cf6</color>
+    <color name="dropdown_background">#000000</color>
+    <color name="headers_color">#ffffff</color>
+    <color name="headers_color_opac">#88ffffff</color>
+    <color name="system_green">#33cc33</color>
+</resources>

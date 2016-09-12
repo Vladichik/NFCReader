@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="checkin">CLOCK IN</string>
+    <string name="checkout">CLOCK OUT</string>
+    <string name="no_action_type">PLEASE CHOOSE ACTION TYPE</string>
+    <string name="no_internet">INTERNET CONNECTION UNAVAILABLE!</string>
+    <string name="no_server_resp">Clock server did not respond</string>
+
+</resources>
